@@ -2027,6 +2027,7 @@ CONFIG_CLD_LL_CORE=y
 CONFIG_CNSS_UTILS=y
 CONFIG_CNSS_GENL=y
 # CONFIG_VIRT_WIFI is not set
+CONFIG_QCA_CLD_WLAN=y
 
 #
 # Enable WiMAX (Networking options) to see the WiMAX drivers
